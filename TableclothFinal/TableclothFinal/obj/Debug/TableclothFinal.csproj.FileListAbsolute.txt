@@ -1,0 +1,13 @@
+C:\Users\yismo\source\repos\TableclothFinal\TableclothFinal\bin\Debug\Tablecloth.mdf
+C:\Users\yismo\source\repos\TableclothFinal\TableclothFinal\bin\Debug\Tablecloth_log.ldf
+C:\Users\yismo\source\repos\TableclothFinal\TableclothFinal\bin\Debug\TableclothFinal.exe.config
+C:\Users\yismo\source\repos\TableclothFinal\TableclothFinal\bin\Debug\TableclothFinal.exe
+C:\Users\yismo\source\repos\TableclothFinal\TableclothFinal\bin\Debug\TableclothFinal.pdb
+C:\Users\yismo\source\repos\TableclothFinal\TableclothFinal\obj\Debug\TableclothFinal.csprojResolveAssemblyReference.cache
+C:\Users\yismo\source\repos\TableclothFinal\TableclothFinal\obj\Debug\TableclothFinal.frmMain.resources
+C:\Users\yismo\source\repos\TableclothFinal\TableclothFinal\obj\Debug\TableclothFinal.Properties.Resources.resources
+C:\Users\yismo\source\repos\TableclothFinal\TableclothFinal\obj\Debug\TableclothFinal.csproj.GenerateResource.Cache
+C:\Users\yismo\source\repos\TableclothFinal\TableclothFinal\obj\Debug\TableclothFinal.csproj.CoreCompileInputs.cache
+C:\Users\yismo\source\repos\TableclothFinal\TableclothFinal\obj\Debug\TableclothFinal.exe
+C:\Users\yismo\source\repos\TableclothFinal\TableclothFinal\obj\Debug\TableclothFinal.pdb
+C:\Users\yismo\source\repos\TableclothFinal\TableclothFinal\obj\Debug\TableclothFinal.frmNewInvoice.resources
